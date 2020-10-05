@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/FirstGitRepo/static/css/main.83bd8ac9.chunk.css",
-    "main.js": "/FirstGitRepo/static/js/main.b7dfa9dd.chunk.js",
-    "main.js.map": "/FirstGitRepo/static/js/main.b7dfa9dd.chunk.js.map",
-    "runtime~main.js": "/FirstGitRepo/static/js/runtime~main.ef0967d5.js",
-    "runtime~main.js.map": "/FirstGitRepo/static/js/runtime~main.ef0967d5.js.map",
-    "static/js/2.324ba510.chunk.js": "/FirstGitRepo/static/js/2.324ba510.chunk.js",
-    "static/js/2.324ba510.chunk.js.map": "/FirstGitRepo/static/js/2.324ba510.chunk.js.map",
-    "index.html": "/FirstGitRepo/index.html",
-    "precache-manifest.ac855b670b51d8e99d595c14bbe18d6d.js": "/FirstGitRepo/precache-manifest.ac855b670b51d8e99d595c14bbe18d6d.js",
-    "service-worker.js": "/FirstGitRepo/service-worker.js",
-    "static/css/main.83bd8ac9.chunk.css.map": "/FirstGitRepo/static/css/main.83bd8ac9.chunk.css.map"
+    "main.css": "/portfolio-app/static/css/main.e711a051.chunk.css",
+    "main.js": "/portfolio-app/static/js/main.dae91cf6.chunk.js",
+    "main.js.map": "/portfolio-app/static/js/main.dae91cf6.chunk.js.map",
+    "runtime~main.js": "/portfolio-app/static/js/runtime~main.cb97d77a.js",
+    "runtime~main.js.map": "/portfolio-app/static/js/runtime~main.cb97d77a.js.map",
+    "static/css/2.657920fb.chunk.css": "/portfolio-app/static/css/2.657920fb.chunk.css",
+    "static/js/2.ee65660d.chunk.js": "/portfolio-app/static/js/2.ee65660d.chunk.js",
+    "static/js/2.ee65660d.chunk.js.map": "/portfolio-app/static/js/2.ee65660d.chunk.js.map",
+    "index.html": "/portfolio-app/index.html",
+    "precache-manifest.685a4442c3cb4bfc1d22610660d980b6.js": "/portfolio-app/precache-manifest.685a4442c3cb4bfc1d22610660d980b6.js",
+    "service-worker.js": "/portfolio-app/service-worker.js",
+    "static/css/2.657920fb.chunk.css.map": "/portfolio-app/static/css/2.657920fb.chunk.css.map",
+    "static/css/main.e711a051.chunk.css.map": "/portfolio-app/static/css/main.e711a051.chunk.css.map"
   }
 }
